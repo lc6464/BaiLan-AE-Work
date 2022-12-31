@@ -1,0 +1,44 @@
+#player {
+	border: 0;
+	position: relative;
+	top: 1em;
+	left: 50%;
+	transform: translateX(-50%);
+	width: 64em;
+	height: 36em;
+}
+
+html {
+	background: url('icon.svg') center center fixed;
+	margin: 0;
+	padding: 0;
+	color: white;
+	text-align: center;
+}
+
+body {
+	background: rgba(0, 0, 0, 0.6);
+	width: 100%;
+	min-height: calc(100vh - 1.5em);
+	padding: 1.5em 0 0 0;
+	margin: 0;
+}
+
+#container {
+	text-align: left;
+}
+
+#timers {
+	font-size: 1.5em;
+	margin: 3em 0 0;
+}
+
+#header {
+	font-size: 4em;
+	padding: 0;
+	margin: 0 0 .2em;
+}
+
+::-webkit-scrollbar {
+	width: 0;
+}

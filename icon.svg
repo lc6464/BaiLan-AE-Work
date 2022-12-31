@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+	<defs>
+		<style>
+			.cls-1 {
+				fill: red;
+				fill-rule: evenodd;
+			}
+
+			.cls-2 {
+				font-size: 486.111px;
+				text-anchor: middle;
+				font-family: KaiTi;
+			}
+		</style>
+	</defs>
+	<path id="底" class="cls-1" d="M500,5.315L994.975,500.289,500,995.264,5.025,500.289Z"/>
+	<text id="福" class="cls-2" x="500.493" y="674.963"><tspan x="500.493">福</tspan></text>
+</svg>
