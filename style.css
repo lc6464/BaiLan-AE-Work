@@ -42,3 +42,31 @@ body {
 ::-webkit-scrollbar {
 	width: 0;
 }
+
+footer {
+	font-size: 1.2em;
+	margin: 2em 0 0;
+}
+
+footer a {
+	display: inline-block;
+	padding: .1em .3em;
+	margin: 0 .3em;
+}
+
+a {
+	transition: all .3s ease;
+}
+
+a, a:link, a:visited {
+	color: white;
+}
+
+a:hover {
+	color: #0cf;
+}
+
+a:active {
+	color: black;
+	background: white;
+}
